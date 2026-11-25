@@ -1,0 +1,25 @@
+Category,Subcategory,Sales,Profit,Quantity,Discount
+Electronics,Smartphones,85000,17000,170,0.05
+Electronics,Laptops,120000,21600,120,0.1
+Electronics,Tablets,45000,8100,110,0.08
+Electronics,Accessories,32000,9600,640,0.15
+Electronics,Smartphones,92000,19300,184,0.04
+Electronics,Laptops,110000,18700,115,0.12
+Furniture,Chairs,54000,8100,270,0.12
+Furniture,Tables,68000,6800,136,0.18
+Furniture,Bookcases,29000,2900,95,0.2
+Furniture,Furnishings,21000,5250,420,0.1
+Furniture,Chairs,61000,9760,305,0.1
+Furniture,Tables,73000,8030,146,0.15
+Office Supplies,Paper,18000,6300,900,0.05
+Office Supplies,Binders,24000,4800,800,0.25
+Office Supplies,Storage,41000,6150,320,0.1
+Office Supplies,Art,15000,4500,600,0.05
+Office Supplies,Paper,21000,7560,1050,0.03
+Office Supplies,Storage,38000,5320,295,0.12
+Home Appliances,Kitchen,64000,11520,210,0.08
+Home Appliances,Cleaning,49000,9310,195,0.1
+Home Appliances,Air Care,37000,7400,150,0.07
+Home Appliances,Kitchen,71000,13490,235,0.06
+Home Appliances,Cleaning,52000,10400,208,0.09
+Home Appliances,Air Care,42000,8820,170,0.05
